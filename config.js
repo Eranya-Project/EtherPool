@@ -2,7 +2,7 @@ module.exports = {
 
 	//This is where you setup geth rpc to listen on
 	ethServer : {
-		host: '127.0.0.1',
+		host: '103.153.61.102',
 		path: '/',
 		//since we are listening on a custom port, we need to specify it by hand
 		port: '8079',
